@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+/* Estilos globales */
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    vertical-align: middle;
+}
+
+/* Estilos del logo */
+.nombreLogo {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+#nombre {
+    font-weight: bold;
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+#imagenLogo {
+    border-radius: 50%;
+    width: 65px;
+}
+
+/* Estilos del título */
+#titulo {
+    font-size: 25px;
+    margin: 20px 0;
+}
+
+/* Estilos del contenedor 2 */
+.cont2 {
+    margin-top: 50px;
+}
+
+/* Estilos potentes */
+/* Agrega estilos de fondo */
+body {
+    background-color: #f1f1f1;
+}
+
+/* Estilos de enlaces */
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos de botones */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #23527c;
+}
+
+/* Estilos de cajas de texto */
+.input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Estilos de imágenes */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilos de tarjetas */
+.card {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-content {
+    font-size: 14px;
+    color: #666;
+}
+
+/* Estilos de animación */
+.fade-in {
+    animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
