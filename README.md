@@ -1,10 +1,10 @@
-# Guía básica para usar YouTube
+# Guía básica para usar YouTube pirata
 
 ![YouTube Logo](https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png)
 
 ¡Bienvenido/a a la guía básica para usar YouTube! A continuación, te proporcionaré los pasos fundamentales para que puedas disfrutar de la plataforma de videos más popular del mundo.
 
-## 1. Acceder a YouTube
+## 1. Acceder a YouTube pirata
 
 Para empezar, necesitas acceder a YouTube desde un navegador web. Sigue estos pasos:
 
